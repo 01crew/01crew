@@ -11,7 +11,7 @@
 ### 🌟 About Us
 **01crew** is a dynamic startup focused on building cutting-edge solutions in **Artificial Intelligence, IoT, Web & Mobile Development, and Cloud Computing**. We specialize in crafting scalable and smart solutions tailored to industry needs, ensuring innovation and efficiency at every step.
 
-🔹 **Expertise in AI & ML, IoT, and SaaS Solutions**  
+🔹 **Expertise in AI & ML, IoT**  
 🔹 **End-to-End Product Development & Consultation**  
 🔹 **Agile & Scalable Technology Stack**  
 🔹 **Budget-Friendly & Startup-Minded Collaboration**  
